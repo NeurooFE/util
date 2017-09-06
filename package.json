@@ -1,0 +1,28 @@
+{
+  "name": "@neuroo_fe/util",
+  "version": "0.0.1",
+  "description": "neuroo util",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "''"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NeurooFE/util.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeurooFE/util/issues"
+  },
+  "homepage": "https://github.com/NeurooFE/util#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "webpack": "^3.5.5",
+    "webpack-uglify-parallel": "^0.1.3"
+  }
+}
